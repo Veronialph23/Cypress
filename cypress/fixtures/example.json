@@ -1,0 +1,15 @@
+{
+  "username": "#user-name",
+  "password": "'#password",
+  "login-btn": "#login-button",
+  "add-fleece-jacket": "#add-to-cart-sauce-labs-backpack",
+  "shopping-cart" : ".shopping_cart_link",
+  "checkout" : "#checkout",
+  "first" : "#first-name",
+  "second": "#last-name",
+  "postal-code": "#postal-code",
+  "cont-btn": "#continue",
+  "finish-btn":  "#finish"
+}
+
+
